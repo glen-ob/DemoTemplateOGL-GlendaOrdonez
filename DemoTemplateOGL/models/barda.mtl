@@ -1,0 +1,13 @@
+# Blender 4.2.1 LTS MTL File: 'barda.blend'
+# www.blender.org
+
+newmtl 07___Default.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Wood 02/Wood02_Base_Color.png
+map_Ns textures/Wood 02/Wood02_Roughness.png
+map_refl textures/Wood 02/Wood02_Metallic.png

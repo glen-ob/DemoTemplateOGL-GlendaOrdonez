@@ -1,0 +1,13 @@
+# Blender 4.2.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl grabary.001
+Ns 68.627434
+Ka 1.000000 1.000000 1.000000
+Ks 0.061224 0.061224 0.061224
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/gcob0/Downloads/uploads_files_1883742_storehouse+obj/Texture and normalie/Grobary texture.png
+map_Bump -bm 0.871795 C:/Users/gcob0/Downloads/uploads_files_1883742_storehouse+obj/Texture and normalie/Grobary texture.png
